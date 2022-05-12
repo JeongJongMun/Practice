@@ -1,0 +1,4 @@
+﻿  연산자 오버로딩.cpp
+C:\Users\whdan\source\repos\연습장\연습장\연산자 오버로딩.cpp(53,22): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\whdan\source\repos\연습장\연습장\연산자 오버로딩.cpp(54,22): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+  연습장.vcxproj -> C:\Users\whdan\source\repos\연습장\x64\Debug\연습장.exe
